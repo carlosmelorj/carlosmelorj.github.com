@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://carlosmelorj.github.io/sitemap.xml 
